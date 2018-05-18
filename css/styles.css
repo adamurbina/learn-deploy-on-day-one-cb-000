@@ -137,6 +137,11 @@ a:visited {
     background-image: url("https://imgur.com/a/380aFXr");
 }
 
+#adam-urbina-cover {
+ background-image: url("https://lonelyplanetimages.imgix.net/a/g/hi/t/9cf024dfd5c0bcb2b17f4785340145ea-san-francisco.jpg?sharp=10&vib=20&w=1200");
+}
+
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
