@@ -133,6 +133,10 @@ a:visited {
   height: 400px;
 }
 
+#adam-urbina-card {
+    background-image: url("https://imgur.com/a/380aFXr")
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
